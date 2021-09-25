@@ -13,7 +13,6 @@
         "huskylens.ts",
         "i2c.cpp",
         "shims.d.ts",
-        "main.ts",
         "enums.d.ts"
     ],
     "testFiles": [

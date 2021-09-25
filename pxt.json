@@ -1,10 +1,12 @@
 {
-    "name": "Huskylens",
-    "version": "2.0.3",
-    "description": "",
+    "name": "CUHK-JC iCAR",
+    "version": "1.0.0",
+    "description": "Extension for CUHK-JC iCAR",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
         "neopixel": "github:lzty634158/pxt-neopixel"
+
     },
     "files": [
         "README.md",
